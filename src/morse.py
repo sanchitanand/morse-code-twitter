@@ -23,6 +23,37 @@ MORSE_ALPHABET = {'A': '.-',     'B': '-...',   'C': '-.-.',
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                   }
 
 INVERSE_MORSE_ALPHABET = dict((v, k) for (k, v) in MORSE_ALPHABET.items())
